@@ -1,0 +1,31 @@
+2022-06-19T07:44:35+00:00 CRITICAL Uncaught TypeError: array_merge(): Argument #1 must be of type array, bool given in /usr/local/lsws/wordpress_aku3/wp-content/plugins/advanced-google-translate/advanced-google-translate.php:34
+Stack trace:
+#0 /usr/local/lsws/wordpress_aku3/wp-content/plugins/advanced-google-translate/advanced-google-translate.php(34): array_merge()
+#1 /usr/local/lsws/wordpress_aku3/wp-includes/class-wp-hook.php(307): agt_activate()
+#2 /usr/local/lsws/wordpress_aku3/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#3 /usr/local/lsws/wordpress_aku3/wp-includes/plugin.php(476): WP_Hook->do_action()
+#4 /usr/local/lsws/wordpress_aku3/wp-admin/includes/plugin.php(691): do_action()
+#5 /usr/local/lsws/wordpress_aku3/wp-admin/plugins.php(58): activate_plugin()
+#6 {main}
+  thrown in /usr/local/lsws/wordpress_aku3/wp-content/plugins/advanced-google-translate/advanced-google-translate.php on line 34
+
+2022-06-19T07:44:48+00:00 CRITICAL Uncaught TypeError: array_merge(): Argument #1 must be of type array, bool given in /usr/local/lsws/wordpress_aku3/wp-content/plugins/advanced-google-translate/advanced-google-translate.php:34
+Stack trace:
+#0 /usr/local/lsws/wordpress_aku3/wp-content/plugins/advanced-google-translate/advanced-google-translate.php(34): array_merge()
+#1 /usr/local/lsws/wordpress_aku3/wp-includes/class-wp-hook.php(307): agt_activate()
+#2 /usr/local/lsws/wordpress_aku3/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#3 /usr/local/lsws/wordpress_aku3/wp-includes/plugin.php(476): WP_Hook->do_action()
+#4 /usr/local/lsws/wordpress_aku3/wp-admin/plugins.php(194): do_action()
+#5 {main}
+  thrown in /usr/local/lsws/wordpress_aku3/wp-content/plugins/advanced-google-translate/advanced-google-translate.php on line 34
+
+2022-06-19T07:44:49+00:00 CRITICAL Uncaught TypeError: array_merge(): Argument #1 must be of type array, bool given in /usr/local/lsws/wordpress_aku3/wp-content/plugins/advanced-google-translate/advanced-google-translate.php:34
+Stack trace:
+#0 /usr/local/lsws/wordpress_aku3/wp-content/plugins/advanced-google-translate/advanced-google-translate.php(34): array_merge()
+#1 /usr/local/lsws/wordpress_aku3/wp-includes/class-wp-hook.php(307): agt_activate()
+#2 /usr/local/lsws/wordpress_aku3/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#3 /usr/local/lsws/wordpress_aku3/wp-includes/plugin.php(476): WP_Hook->do_action()
+#4 /usr/local/lsws/wordpress_aku3/wp-admin/plugins.php(194): do_action()
+#5 {main}
+  thrown in /usr/local/lsws/wordpress_aku3/wp-content/plugins/advanced-google-translate/advanced-google-translate.php on line 34
+
