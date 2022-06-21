@@ -178,12 +178,12 @@
 				</div>
 				<div class="elementor-element elementor-element-2b0453f elementor-widget elementor-widget-wd_google_map" data-id="2b0453f" data-element_type="widget" data-widget_type="wd_google_map.default">
 				<div class="elementor-widget-container">
-					<div class="google-map-container map-container-with-content" data-map-args='{"latitude":"51.50735","longitude":"-0.12776","zoom":13,"mouse_zoom":"no","init_type":"page_load","init_offset":"","json_style":"W3siZmVhdHVyZVR5cGUiOiJhZG1pbmlzdHJhdGl2ZSIsImVsZW1lbnRUeXBlIjoiYWxsIiwic3R5bGVycyI6W3sidmlzaWJpbGl0eSI6Im9uIn0seyJzYXR1cmF0aW9uIjotMTAwfSx7ImxpZ2h0bmVzcyI6MjB9XX0seyJmZWF0dXJlVHlwZSI6InJvYWQiLCJlbGVtZW50VHlwZSI6ImFsbCIsInN0eWxlcnMiOlt7InZpc2liaWxpdHkiOiJvbiJ9LHsic2F0dXJhdGlvbiI6LTEwMH0seyJsaWdodG5lc3MiOjQwfV19LHsiZmVhdHVyZVR5cGUiOiJ3YXRlciIsImVsZW1lbnRUeXBlIjoiYWxsIiwic3R5bGVycyI6W3sidmlzaWJpbGl0eSI6Im9uIn0seyJzYXR1cmF0aW9uIjotMTB9LHsibGlnaHRuZXNzIjozMH1dfSx7ImZlYXR1cmVUeXBlIjoibGFuZHNjYXBlLm1hbl9tYWRlIiwiZWxlbWVudFR5cGUiOiJhbGwiLCJzdHlsZXJzIjpbeyJ2aXNpYmlsaXR5Ijoic2ltcGxpZmllZCJ9LHsic2F0dXJhdGlvbiI6LTYwfSx7ImxpZ2h0bmVzcyI6MTB9XX0seyJmZWF0dXJlVHlwZSI6ImxhbmRzY2FwZS5uYXR1cmFsIiwiZWxlbWVudFR5cGUiOiJhbGwiLCJzdHlsZXJzIjpbeyJ2aXNpYmlsaXR5Ijoic2ltcGxpZmllZCJ9LHsic2F0dXJhdGlvbiI6LTYwfSx7ImxpZ2h0bmVzcyI6NjB9XX0seyJmZWF0dXJlVHlwZSI6InBvaSIsImVsZW1lbnRUeXBlIjoiYWxsIiwic3R5bGVycyI6W3sidmlzaWJpbGl0eSI6Im9mZiJ9LHsic2F0dXJhdGlvbiI6LTEwMH0seyJsaWdodG5lc3MiOjYwfV19LHsiZmVhdHVyZVR5cGUiOiJ0cmFuc2l0IiwiZWxlbWVudFR5cGUiOiJhbGwiLCJzdHlsZXJzIjpbeyJ2aXNpYmlsaXR5Ijoib2ZmIn0seyJzYXR1cmF0aW9uIjotMTAwfSx7ImxpZ2h0bmVzcyI6NjB9XX1d","marker_icon":"\/wp-content\/themes\/woodmart\/inc\/admin\/assets\/images\/google-icon.png","elementor":true,"marker_text_needed":"no","marker_text":"<h3 style=\"min-width:300px; text-align:center; margin:15px;\"><\/h3>","selector":"wd-map-id-62b038829978a"}'>
+					<div class="google-map-container map-container-with-content" data-map-args='{"latitude":"51.50735","longitude":"-0.12776","zoom":13,"mouse_zoom":"no","init_type":"page_load","init_offset":"","json_style":"W3siZmVhdHVyZVR5cGUiOiJhZG1pbmlzdHJhdGl2ZSIsImVsZW1lbnRUeXBlIjoiYWxsIiwic3R5bGVycyI6W3sidmlzaWJpbGl0eSI6Im9uIn0seyJzYXR1cmF0aW9uIjotMTAwfSx7ImxpZ2h0bmVzcyI6MjB9XX0seyJmZWF0dXJlVHlwZSI6InJvYWQiLCJlbGVtZW50VHlwZSI6ImFsbCIsInN0eWxlcnMiOlt7InZpc2liaWxpdHkiOiJvbiJ9LHsic2F0dXJhdGlvbiI6LTEwMH0seyJsaWdodG5lc3MiOjQwfV19LHsiZmVhdHVyZVR5cGUiOiJ3YXRlciIsImVsZW1lbnRUeXBlIjoiYWxsIiwic3R5bGVycyI6W3sidmlzaWJpbGl0eSI6Im9uIn0seyJzYXR1cmF0aW9uIjotMTB9LHsibGlnaHRuZXNzIjozMH1dfSx7ImZlYXR1cmVUeXBlIjoibGFuZHNjYXBlLm1hbl9tYWRlIiwiZWxlbWVudFR5cGUiOiJhbGwiLCJzdHlsZXJzIjpbeyJ2aXNpYmlsaXR5Ijoic2ltcGxpZmllZCJ9LHsic2F0dXJhdGlvbiI6LTYwfSx7ImxpZ2h0bmVzcyI6MTB9XX0seyJmZWF0dXJlVHlwZSI6ImxhbmRzY2FwZS5uYXR1cmFsIiwiZWxlbWVudFR5cGUiOiJhbGwiLCJzdHlsZXJzIjpbeyJ2aXNpYmlsaXR5Ijoic2ltcGxpZmllZCJ9LHsic2F0dXJhdGlvbiI6LTYwfSx7ImxpZ2h0bmVzcyI6NjB9XX0seyJmZWF0dXJlVHlwZSI6InBvaSIsImVsZW1lbnRUeXBlIjoiYWxsIiwic3R5bGVycyI6W3sidmlzaWJpbGl0eSI6Im9mZiJ9LHsic2F0dXJhdGlvbiI6LTEwMH0seyJsaWdodG5lc3MiOjYwfV19LHsiZmVhdHVyZVR5cGUiOiJ0cmFuc2l0IiwiZWxlbWVudFR5cGUiOiJhbGwiLCJzdHlsZXJzIjpbeyJ2aXNpYmlsaXR5Ijoib2ZmIn0seyJzYXR1cmF0aW9uIjotMTAwfSx7ImxpZ2h0bmVzcyI6NjB9XX1d","marker_icon":"\/wp-content\/themes\/woodmart\/inc\/admin\/assets\/images\/google-icon.png","elementor":true,"marker_text_needed":"no","marker_text":"<h3 style=\"min-width:300px; text-align:center; margin:15px;\"><\/h3>","selector":"wd-map-id-62b1386569593"}'>
 			
 						
 						
 			<div class="wd-google-map-wrapper wd-fill">
-				<div id="wd-map-id-62b038829978a" class="wd-google-map without-content wd-fill"></div>
+				<div id="wd-map-id-62b1386569593" class="wd-google-map without-content wd-fill"></div>
 			</div>
 			
 							<div class="container wd-google-map-content-wrap wd-items-top wd-justify-left">
@@ -637,7 +637,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 				</div>
 				<div class="elementor-element elementor-element-bb7bda7 elementor-widget elementor-widget-wd_products" data-id="bb7bda7" data-element_type="widget" data-widget_type="wd_products.default">
 				<div class="elementor-widget-container">
-						<link rel="stylesheet" id="wd-product-loop-base-css" href="https://aku3.kinhmoi.com/wp-content/themes/woodmart/css/parts/woo-product-loop-base.min.css?ver=6.5.2" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-mod-more-description-css" href="https://aku3.kinhmoi.com/wp-content/themes/woodmart/css/parts/mod-more-description.min.css?ver=6.5.2" type="text/css" media="all" /> 									<div id="carousel-152"
+						<link rel="stylesheet" id="wd-product-loop-base-css" href="https://aku3.kinhmoi.com/wp-content/themes/woodmart/css/parts/woo-product-loop-base.min.css?ver=6.5.2" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-mod-more-description-css" href="https://aku3.kinhmoi.com/wp-content/themes/woodmart/css/parts/mod-more-description.min.css?ver=6.5.2" type="text/css" media="all" /> 									<div id="carousel-568"
 				 class="wd-carousel-container  slider-type-product products wd-carousel-spacing-20" data-owl-carousel data-speed="" data-slides_per_view_tablet='{"size":""}' data-slides_per_view_mobile='{"size":""}' data-wrap="no" data-hide_pagination_control="yes" data-hide_prev_next_buttons="yes" data-desktop="4" data-tablet_landscape="4" data-tablet="3" data-mobile="2">
 								<div class="owl-carousel owl-items-lg-4 owl-items-md-4 owl-items-sm-3 owl-items-xs-2">
 					
@@ -680,7 +680,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="372" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="372" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -744,7 +744,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="270" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="270" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -812,7 +812,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="334" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="334" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -876,7 +876,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="232" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="232" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -940,7 +940,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="381" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="381" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -1004,7 +1004,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="411" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="411" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -1072,7 +1072,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="361" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="361" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -1136,7 +1136,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="395" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="395" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -1163,7 +1163,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 		</div>
 						
 				</div> <!-- end product-items -->
-			</div> <!-- end #carousel-152 -->
+			</div> <!-- end #carousel-568 -->
 			
 					</div>
 				</div>
@@ -1275,7 +1275,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 				<div class="elementor-element elementor-element-9d0e3b0 elementor-widget elementor-widget-wd_product_categories" data-id="9d0e3b0" data-element_type="widget" data-widget_type="wd_product_categories.default">
 				<div class="elementor-widget-container">
 						<link rel="stylesheet" id="wd-categories-loop-default-css" href="https://aku3.kinhmoi.com/wp-content/themes/woodmart/css/parts/woo-categories-loop-default-old.min.css?ver=6.5.2" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-categories-loop-layout-masonry-css" href="https://aku3.kinhmoi.com/wp-content/themes/woodmart/css/parts/woo-categories-loop-layout-masonry.min.css?ver=6.5.2" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-categories-loop-css" href="https://aku3.kinhmoi.com/wp-content/themes/woodmart/css/parts/woo-categories-loop-old.min.css?ver=6.5.2" type="text/css" media="all" /> 												
-				<div class="products woocommerce columns4 categories-style-carousel wd-carousel-spacing-30 categories-style-carousel" id="carousel-62b03884048ed" data-owl-carousel data-speed="" data-slides_per_view_tablet='{"unit":"px","size":"","sizes":[]}' data-slides_per_view_mobile='{"unit":"px","size":"","sizes":[]}' data-wrap="no" data-hide_pagination_control="yes" data-hide_prev_next_buttons="yes" data-desktop="3" data-tablet_landscape="3" data-tablet="2" data-mobile="2">
+				<div class="products woocommerce columns4 categories-style-carousel wd-carousel-spacing-30 categories-style-carousel" id="carousel-62b1386636574" data-owl-carousel data-speed="" data-slides_per_view_tablet='{"size":""}' data-slides_per_view_mobile='{"size":""}' data-wrap="no" data-hide_pagination_control="yes" data-hide_prev_next_buttons="yes" data-desktop="3" data-tablet_landscape="3" data-tablet="2" data-mobile="2">
 					<div class="owl-carousel carousel-items owl-items-lg-3 owl-items-md-3 owl-items-sm-2 owl-items-xs-2">
 													
 <div class="category-grid-item cat-design-default categories-with-shadow color-scheme- product-category product first" data-loop="1">
@@ -1365,7 +1365,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 				</div>
 				<div class="elementor-element elementor-element-ddfef66 elementor-widget elementor-widget-wd_products" data-id="ddfef66" data-element_type="widget" data-widget_type="wd_products.default">
 				<div class="elementor-widget-container">
-									<div id="carousel-264"
+									<div id="carousel-483"
 				 class="wd-carousel-container  slider-type-product products wd-carousel-spacing-20" data-owl-carousel data-speed="" data-slides_per_view_tablet='{"size":""}' data-slides_per_view_mobile='{"size":""}' data-wrap="no" data-hide_pagination_control="yes" data-hide_prev_next_buttons="yes" data-desktop="4" data-tablet_landscape="4" data-tablet="3" data-mobile="2">
 								<div class="owl-carousel owl-items-lg-4 owl-items-md-4 owl-items-sm-3 owl-items-xs-2">
 					
@@ -1408,7 +1408,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="372" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="372" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -1472,7 +1472,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="270" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="270" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -1540,7 +1540,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="334" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="334" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -1604,7 +1604,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="232" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="232" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -1668,7 +1668,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="381" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="381" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -1732,7 +1732,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="411" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="411" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -1800,7 +1800,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="361" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="361" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -1864,7 +1864,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="395" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="395" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -1932,7 +1932,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="323" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="323" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -1996,7 +1996,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="312" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="312" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -2064,7 +2064,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="344" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="344" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -2128,7 +2128,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="300" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="300" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -2155,7 +2155,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 		</div>
 						
 				</div> <!-- end product-items -->
-			</div> <!-- end #carousel-264 -->
+			</div> <!-- end #carousel-483 -->
 			
 					</div>
 				</div>
@@ -2253,7 +2253,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 				</div>
 				<div class="elementor-element elementor-element-0c7cbea elementor-widget elementor-widget-wd_products" data-id="0c7cbea" data-element_type="widget" data-widget_type="wd_products.default">
 				<div class="elementor-widget-container">
-									<div id="carousel-498"
+									<div id="carousel-317"
 				 class="wd-carousel-container  slider-type-product products wd-carousel-spacing-20" data-owl-carousel data-speed="" data-slides_per_view_tablet='{"size":""}' data-slides_per_view_mobile='{"size":""}' data-wrap="no" data-hide_pagination_control="yes" data-hide_prev_next_buttons="yes" data-desktop="4" data-tablet_landscape="4" data-tablet="3" data-mobile="2">
 								<div class="owl-carousel owl-items-lg-4 owl-items-md-4 owl-items-sm-3 owl-items-xs-2">
 					
@@ -2296,7 +2296,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="372" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="372" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -2360,7 +2360,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="270" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="270" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -2428,7 +2428,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="334" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="334" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -2492,7 +2492,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="232" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="232" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -2556,7 +2556,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="381" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="381" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -2620,7 +2620,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="411" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="411" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -2688,7 +2688,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="361" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="361" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -2752,7 +2752,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="395" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="395" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -2820,7 +2820,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="323" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="323" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -2884,7 +2884,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="312" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="312" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -2952,7 +2952,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="344" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="344" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -3016,7 +3016,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="300" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="300" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -3043,7 +3043,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 		</div>
 						
 				</div> <!-- end product-items -->
-			</div> <!-- end #carousel-498 -->
+			</div> <!-- end #carousel-317 -->
 			
 					</div>
 				</div>
@@ -3217,7 +3217,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 				</div>
 				<div class="elementor-element elementor-element-0a925da elementor-widget elementor-widget-wd_products" data-id="0a925da" data-element_type="widget" data-widget_type="wd_products.default">
 				<div class="elementor-widget-container">
-									<div id="carousel-122"
+									<div id="carousel-882"
 				 class="wd-carousel-container  slider-type-product products wd-carousel-spacing-20" data-owl-carousel data-speed="" data-slides_per_view_tablet='{"size":""}' data-slides_per_view_mobile='{"size":""}' data-wrap="no" data-hide_pagination_control="yes" data-hide_prev_next_buttons="yes" data-desktop="4" data-tablet_landscape="4" data-tablet="3" data-mobile="2">
 								<div class="owl-carousel owl-items-lg-4 owl-items-md-4 owl-items-sm-3 owl-items-xs-2">
 					
@@ -3260,7 +3260,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="372" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="372" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -3324,7 +3324,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="270" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="270" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -3392,7 +3392,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="334" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="334" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -3456,7 +3456,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="232" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="232" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -3520,7 +3520,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="381" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="381" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -3584,7 +3584,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="411" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="411" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -3652,7 +3652,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="361" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="361" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -3716,7 +3716,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="395" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="395" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -3784,7 +3784,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="323" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="323" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -3848,7 +3848,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="312" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="312" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -3916,7 +3916,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="344" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="344" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -3980,7 +3980,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="300" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="300" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -4007,7 +4007,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 		</div>
 						
 				</div> <!-- end product-items -->
-			</div> <!-- end #carousel-122 -->
+			</div> <!-- end #carousel-882 -->
 			
 					</div>
 				</div>
@@ -4526,7 +4526,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 				</div>
 				<div class="elementor-element elementor-element-57897dd elementor-widget elementor-widget-wd_products_brands" data-id="57897dd" data-element_type="widget" data-widget_type="wd_products_brands.default">
 				<div class="elementor-widget-container">
-					<div class="brands-items-wrapper brands-widget slider-brands_5542 brands-hover-default brands-style-default brands-carousel wd-carousel-container wd-carousel-spacing-0" id="brands_5542" data-owl-carousel data-speed="" data-slides_per_view_tablet='{"unit":"px","size":"","sizes":[]}' data-slides_per_view_mobile='{"unit":"px","size":"","sizes":[]}' data-wrap="no" data-hide_pagination_control="yes" data-hide_prev_next_buttons="yes" data-desktop="5" data-tablet_landscape="4" data-tablet="3" data-mobile="2">
+					<div class="brands-items-wrapper brands-widget slider-brands_3920 brands-hover-default brands-style-default brands-carousel wd-carousel-container wd-carousel-spacing-0" id="brands_3920" data-owl-carousel data-speed="" data-slides_per_view_tablet='{"size":""}' data-slides_per_view_mobile='{"size":""}' data-wrap="no" data-hide_pagination_control="yes" data-hide_prev_next_buttons="yes" data-desktop="5" data-tablet_landscape="4" data-tablet="3" data-mobile="2">
 			<div class="owl-carousel owl-items-lg-5 owl-items-md-4 owl-items-sm-3 owl-items-xs-2">
 															
 						<div class="brand-item">
@@ -4732,7 +4732,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-d256fb2 elementor-widget elementor-widget-wd_products" data-id="d256fb2" data-element_type="widget" data-widget_type="wd_products.default">
 				<div class="elementor-widget-container">
-									<div id="carousel-386"
+									<div id="carousel-824"
 				 class="wd-carousel-container  slider-type-product products wd-carousel-spacing-20" data-owl-carousel data-speed="" data-slides_per_view_tablet='{"size":""}' data-slides_per_view_mobile='{"size":""}' data-wrap="no" data-hide_pagination_control="no" data-hide_prev_next_buttons="no" data-desktop="1" data-tablet="1" data-tablet_landscape="1" data-mobile="1">
 								<div class="owl-carousel owl-items-lg-1 owl-items-md-1 owl-items-sm-1 owl-items-xs-1">
 					
@@ -4775,7 +4775,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="372" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="372" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -4802,7 +4802,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 		</div>
 						
 				</div> <!-- end product-items -->
-			</div> <!-- end #carousel-386 -->
+			</div> <!-- end #carousel-824 -->
 			
 					</div>
 				</div>
@@ -5034,7 +5034,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-da76528 elementor-widget elementor-widget-wd_testimonials" data-id="da76528" data-element_type="widget" data-widget_type="wd_testimonials.default">
 				<div class="elementor-widget-container">
-						<link rel="stylesheet" id="wd-testimonial-old-css" href="https://aku3.kinhmoi.com/wp-content/themes/woodmart/css/parts/el-testimonial-old.min.css?ver=6.5.2" type="text/css" media="all" /> 					<div class="testimonials testimonials-wrapper testimonials-slider testimon-style-standard  color-scheme- testimon-align-left wd-carousel-container wd-carousel-spacing-30" id="carousel-3187" data-owl-carousel data-speed="" data-slides_per_view_tablet='{"unit":"px","size":"","sizes":[]}' data-slides_per_view_mobile='{"unit":"px","size":"","sizes":[]}' data-wrap="no" data-hide_pagination_control="yes" data-hide_prev_next_buttons="no" data-desktop="1" data-tablet="1" data-tablet_landscape="1" data-mobile="1">
+						<link rel="stylesheet" id="wd-testimonial-old-css" href="https://aku3.kinhmoi.com/wp-content/themes/woodmart/css/parts/el-testimonial-old.min.css?ver=6.5.2" type="text/css" media="all" /> 					<div class="testimonials testimonials-wrapper testimonials-slider testimon-style-standard  color-scheme- testimon-align-left wd-carousel-container wd-carousel-spacing-30" id="carousel-6526" data-owl-carousel data-speed="" data-slides_per_view_tablet='{"size":""}' data-slides_per_view_mobile='{"size":""}' data-wrap="no" data-hide_pagination_control="yes" data-hide_prev_next_buttons="no" data-desktop="1" data-tablet="1" data-tablet_landscape="1" data-mobile="1">
 			<div class="owl-carousel owl-items-lg-1 owl-items-md-1 owl-items-sm-1 owl-items-xs-1">
 									
 <div class="testimonial column">
