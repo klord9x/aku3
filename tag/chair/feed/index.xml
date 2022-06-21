@@ -610,7 +610,7 @@
 				</div>
 				<div class="elementor-element elementor-element-57897dd elementor-widget elementor-widget-wd_products_brands" data-id="57897dd" data-element_type="widget" data-widget_type="wd_products_brands.default">
 				<div class="elementor-widget-container">
-					<div class="brands-items-wrapper brands-widget slider-brands_8745 brands-hover-default brands-style-default brands-carousel wd-carousel-container wd-carousel-spacing-0" id="brands_8745" data-owl-carousel data-speed="" data-slides_per_view_tablet='{"size":""}' data-slides_per_view_mobile='{"size":""}' data-wrap="no" data-hide_pagination_control="yes" data-hide_prev_next_buttons="yes" data-desktop="5" data-tablet_landscape="4" data-tablet="3" data-mobile="2">
+					<div class="brands-items-wrapper brands-widget slider-brands_2917 brands-hover-default brands-style-default brands-carousel wd-carousel-container wd-carousel-spacing-0" id="brands_2917" data-owl-carousel data-speed="" data-slides_per_view_tablet='{"size":""}' data-slides_per_view_mobile='{"size":""}' data-wrap="no" data-hide_pagination_control="yes" data-hide_prev_next_buttons="yes" data-desktop="5" data-tablet_landscape="4" data-tablet="3" data-mobile="2">
 			<div class="owl-carousel owl-items-lg-5 owl-items-md-4 owl-items-sm-3 owl-items-xs-2">
 															
 						<div class="brand-item">
@@ -816,7 +816,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-d256fb2 elementor-widget elementor-widget-wd_products" data-id="d256fb2" data-element_type="widget" data-widget_type="wd_products.default">
 				<div class="elementor-widget-container">
-						<link rel="stylesheet" id="wd-product-loop-base-css" href="https://aku3.kinhmoi.com/wp-content/themes/woodmart/css/parts/woo-product-loop-base.min.css?ver=6.5.2" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-mod-more-description-css" href="https://aku3.kinhmoi.com/wp-content/themes/woodmart/css/parts/mod-more-description.min.css?ver=6.5.2" type="text/css" media="all" /> 									<div id="carousel-820"
+						<link rel="stylesheet" id="wd-product-loop-base-css" href="https://aku3.kinhmoi.com/wp-content/themes/woodmart/css/parts/woo-product-loop-base.min.css?ver=6.5.2" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-mod-more-description-css" href="https://aku3.kinhmoi.com/wp-content/themes/woodmart/css/parts/mod-more-description.min.css?ver=6.5.2" type="text/css" media="all" /> 									<div id="carousel-724"
 				 class="wd-carousel-container  slider-type-product products wd-carousel-spacing-20" data-owl-carousel data-speed="" data-slides_per_view_tablet='{"size":""}' data-slides_per_view_mobile='{"size":""}' data-wrap="no" data-hide_pagination_control="no" data-hide_prev_next_buttons="no" data-desktop="1" data-tablet="1" data-tablet_landscape="1" data-mobile="1">
 								<div class="owl-carousel owl-items-lg-1 owl-items-md-1 owl-items-sm-1 owl-items-xs-1">
 					
@@ -859,7 +859,7 @@
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="365444c5cf" data-product-id="372" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="372" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -886,7 +886,7 @@
 		</div>
 						
 				</div> <!-- end product-items -->
-			</div> <!-- end #carousel-820 -->
+			</div> <!-- end #carousel-724 -->
 			
 					</div>
 				</div>
