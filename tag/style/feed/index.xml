@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Lưu trữ Style - MySite_aku3</title>
+	<title>Style &#8211; MySite_aku3</title>
 	<atom:link href="/tag/style/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Just another WordPress site</description>
@@ -32,9 +32,7 @@
 		<category><![CDATA[Style]]></category>
 		<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?p=456</guid>
 
-					<description><![CDATA[<p>A sed a risusat luctus esta anibh rhoncus hendrerit blandit nam rutrum sitmiad hac. Cras a vestibulum a varius adipiscing</p>
-<p>Bài viết <a rel="nofollow" href="/2021/08/green-interior-design-inspiration/">Green interior design inspiration</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="/">MySite_aku3</a>.</p>
-]]></description>
+					<description><![CDATA[A sed a risusat luctus esta anibh rhoncus hendrerit blandit nam rutrum sitmiad hac. Cras a vestibulum a varius adipiscing]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="456" class="elementor elementor-456">
 									<section class="wd-negative-gap elementor-section elementor-top-section elementor-element elementor-element-17bb5db1 elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="17bb5db1" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -66,7 +64,7 @@
 				</div>
 				<div class="elementor-element elementor-element-21f1fa92 elementor-widget elementor-widget-wd_infobox" data-id="21f1fa92" data-element_type="widget" data-widget_type="wd_infobox.default">
 				<div class="elementor-widget-container">
-						<link rel="stylesheet" id="wd-info-box-css" href="https://aku3.kinhmoi.com/wp-content/themes/woodmart/css/parts/el-info-box.min.css?ver=6.5.2" type="text/css" media="all" /> 					<div class="info-box-wrapper">
+						<link rel="stylesheet" id="wd-info-box-css" href="/wp-content/themes/woodmart/css/parts/el-info-box.min.css?ver=6.5.3" type="text/css" media="all" /> 					<div class="info-box-wrapper">
 			<div class="wd-info-box text-left box-icon-align-top box-style-base color-scheme- cursor-pointer" onclick="window.location.href='#'">
 				
 				<div class="info-box-content">
@@ -100,10 +98,10 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-e248e34 elementor-widget elementor-widget-wd_image_or_svg" data-id="e248e34" data-element_type="widget" data-widget_type="wd_image_or_svg.default">
 				<div class="elementor-widget-container">
-						<link rel="stylesheet" id="wd-photoswipe-css" href="https://aku3.kinhmoi.com/wp-content/themes/woodmart/css/parts/lib-photoswipe.min.css?ver=6.5.2" type="text/css" media="all" /> 			
+						<link rel="stylesheet" id="wd-photoswipe-css" href="/wp-content/themes/woodmart/css/parts/lib-photoswipe.min.css?ver=6.5.3" type="text/css" media="all" /> 			
 		<div class="wd-image text-left photoswipe-images">
-							<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/wd-blog-7.jpg"data-width="128" data-height="128" data-elementor-open-lightbox="no">
-								<img src="https://aku3.kinhmoi.com/wp-content/uploads/2022/05/decorative-lamps.png" title="decorative-lamps" alt="decorative-lamps" />							</a>
+							<a  href="/wp-content/uploads/2021/08/wd-blog-7.jpg"data-width="128" data-height="128" data-elementor-open-lightbox="no">
+								<img src="/wp-content/uploads/elementor/thumbs/decorative-lamps-pqivgqvtmeok3lcun8aui4si49ezjbwj7sf9v9r9m8.png" title="decorative-lamps" alt="decorative-lamps" />							</a>
 					</div>
 
 				</div>
@@ -126,42 +124,42 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 				</div>
 				<div class="elementor-element elementor-element-5c6f6ee4 elementor-widget elementor-widget-wd_images_gallery" data-id="5c6f6ee4" data-element_type="widget" data-widget_type="wd_images_gallery.default">
 				<div class="elementor-widget-container">
-						<link rel="stylesheet" id="wd-image-gallery-css" href="https://aku3.kinhmoi.com/wp-content/themes/woodmart/css/parts/el-gallery.min.css?ver=6.5.2" type="text/css" media="all" /> 					<div class="wd-images-gallery wd-justify-center wd-items-middle view-grid photoswipe-images" >
+						<link rel="stylesheet" id="wd-image-gallery-css" href="/wp-content/themes/woodmart/css/parts/el-gallery.min.css?ver=6.5.3" type="text/css" media="all" /> 					<div class="wd-images-gallery wd-justify-center wd-items-middle view-grid photoswipe-images" >
 			<div class="gallery-images row wd-spacing-10">
 														<div class="wd-gallery-item  col-lg-4 col-md-4 col-12">
-													<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2022/05/special-lamps.png"data-width="128" data-height="128" data-index="1" data-elementor-open-lightbox="no">
+													<a  href="/wp-content/uploads/2022/05/special-lamps.png"data-width="128" data-height="128" data-index="1" data-elementor-open-lightbox="no">
 						
-						<img src="https://aku3.kinhmoi.com/wp-content/uploads/2022/05/special-lamps.png"alt="special-lamps">
+						<img src="/wp-content/uploads/elementor/thumbs/special-lamps-pqivgsrecidtwssx3iilavsc70itzggu8nyqdm8t6g.png"alt="special-lamps">
 													</a>
 											</div>
 															<div class="wd-gallery-item  col-lg-4 col-md-4 col-12">
-													<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2022/05/light-fixtures.png"data-width="128" data-height="128" data-index="2" data-elementor-open-lightbox="no">
+													<a  href="/wp-content/uploads/2022/05/light-fixtures.png"data-width="128" data-height="128" data-index="2" data-elementor-open-lightbox="no">
 						
-						<img src="https://aku3.kinhmoi.com/wp-content/uploads/2022/05/light-fixtures.png"alt="light-fixtures">
+						<img src="/wp-content/uploads/elementor/thumbs/light-fixtures-pqivgtp8jcf48erjy0x7vdjssee775kkksm7uw7f08.png"alt="light-fixtures">
 													</a>
 											</div>
 															<div class="wd-gallery-item  col-lg-4 col-md-4 col-12">
-													<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2022/05/ceiling-lights.png"data-width="128" data-height="128" data-index="3" data-elementor-open-lightbox="no">
+													<a  href="/wp-content/uploads/2022/05/ceiling-lights.png"data-width="128" data-height="128" data-index="3" data-elementor-open-lightbox="no">
 						
-						<img src="https://aku3.kinhmoi.com/wp-content/uploads/2022/05/ceiling-lights.png"alt="ceiling-lights">
+						<img src="/wp-content/uploads/elementor/thumbs/ceiling-lights-pqivgun2q6gek0q6sjbufvb9ds9keuoawx9pc660u0.png"alt="ceiling-lights">
 													</a>
 											</div>
 															<div class="wd-gallery-item  col-lg-4 col-md-4 col-12">
-													<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/wd-blog-6.jpg"data-width="1024" data-height="720" data-index="4" data-elementor-open-lightbox="no">
+													<a  href="/wp-content/uploads/2021/08/wd-blog-6.jpg"data-width="1024" data-height="720" data-index="4" data-elementor-open-lightbox="no">
 						
-						<img src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/wd-blog-6.jpg"alt="wd-blog-6">
+						<img src="/wp-content/uploads/elementor/thumbs/wd-blog-6-pqiw9ocwb9wyliuugzvywlg5766sgp3yvlhr5nfe0o.jpg"alt="wd-blog-6">
 													</a>
 											</div>
 															<div class="wd-gallery-item  col-lg-4 col-md-4 col-12">
-													<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/wd-blog-8.jpg"data-width="1024" data-height="720" data-index="5" data-elementor-open-lightbox="no">
+													<a  href="/wp-content/uploads/2021/08/wd-blog-8.jpg"data-width="1024" data-height="720" data-index="5" data-elementor-open-lightbox="no">
 						
-						<img src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/wd-blog-8.jpg"alt="wd-blog-8">
+						<img src="/wp-content/uploads/elementor/thumbs/wd-blog-8-pqiw9q8koxzj8qs460p81kz2dxxiw3bfjusq47clo8.jpg"alt="wd-blog-8">
 													</a>
 											</div>
 															<div class="wd-gallery-item  col-lg-4 col-md-4 col-12">
-													<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2022/05/track-lights.png"data-width="128" data-height="128" data-index="6" data-elementor-open-lightbox="no">
+													<a  href="/wp-content/uploads/2022/05/track-lights.png"data-width="128" data-height="128" data-index="6" data-elementor-open-lightbox="no">
 						
-						<img src="https://aku3.kinhmoi.com/wp-content/uploads/2022/05/track-lights.png"alt="track-lights">
+						<img src="/wp-content/uploads/elementor/thumbs/track-lights-pqivgwir3uiz78nghk53kuu6kk0au8vrl6koaq38hk.png"alt="track-lights">
 													</a>
 											</div>
 								</div>
@@ -181,8 +179,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 							</div>
 		</section>
 							</div>
-		<p>Bài viết <a rel="nofollow" href="/2021/08/green-interior-design-inspiration/">Green interior design inspiration</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="/">MySite_aku3</a>.</p>
-]]></content:encoded>
+		]]></content:encoded>
 					
 					<wfw:commentRss>/2021/08/green-interior-design-inspiration/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -202,9 +199,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 		<category><![CDATA[Trends]]></category>
 		<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?p=160</guid>
 
-					<description><![CDATA[<p>Parturient in potenti id rutrum duis torquent parturient sceler isque sit vestibulum a posuere scelerisque viverra urna. Egestas tristique vestibulum vestibulum</p>
-<p>Bài viết <a rel="nofollow" href="/2021/08/the-big-design-wall-likes-pictures/">The big design: Wall likes pictures</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="/">MySite_aku3</a>.</p>
-]]></description>
+					<description><![CDATA[Parturient in potenti id rutrum duis torquent parturient sceler isque sit vestibulum a posuere scelerisque viverra urna. Egestas tristique vestibulum vestibulum]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="160" class="elementor elementor-160">
 									<section class="wd-negative-gap elementor-section elementor-top-section elementor-element elementor-element-054a6b5 elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="054a6b5" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -223,27 +218,27 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 					<div class="wd-images-gallery wd-justify-center wd-items-middle view-carousel photoswipe-images wd-carousel-spacing-30 wd-carousel-container" data-owl-carousel data-speed="" data-slides_per_view_tablet='{"size":""}' data-slides_per_view_mobile='{"size":""}' data-wrap="no" data-hide_pagination_control="yes" data-hide_prev_next_buttons="no" data-desktop="3" data-tablet_landscape="3" data-tablet="2" data-mobile="1">
 			<div class="gallery-images owl-carousel owl-items-lg-3 owl-items-md-3 owl-items-sm-2 owl-items-xs-1">
 														<div class="wd-gallery-item">
-													<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/post-3-gallery-1-min.jpg"data-width="450" data-height="700" data-index="1" data-elementor-open-lightbox="no">
+													<a  href="/wp-content/uploads/2021/08/post-3-gallery-1-min.jpg"data-width="450" data-height="700" data-index="1" data-elementor-open-lightbox="no">
 						
-						<img src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/post-3-gallery-1-min.jpg"alt="post-3-gallery-1-min">
+						<img src="/wp-content/uploads/elementor/thumbs/post-3-gallery-1-min-pqiwg6eq6y9kbi6qw0v9kd84z8tphtg4svgntlvdnc.jpg"alt="post-3-gallery-1-min">
 													</a>
 											</div>
 															<div class="wd-gallery-item">
-													<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/post-3-gallery-2-min.jpg"data-width="450" data-height="700" data-index="2" data-elementor-open-lightbox="no">
+													<a  href="/wp-content/uploads/2021/08/post-3-gallery-2-min.jpg"data-width="450" data-height="700" data-index="2" data-elementor-open-lightbox="no">
 						
-						<img src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/post-3-gallery-2-min.jpg"alt="post-3-gallery-2-min">
+						<img src="/wp-content/uploads/elementor/thumbs/post-3-gallery-2-min-pqiwbh7s0rty9p0ibzqf3jx61vzn0asg5m19fsu8rc.jpg"alt="post-3-gallery-2-min">
 													</a>
 											</div>
 															<div class="wd-gallery-item">
-													<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/post-3-gallery-3-min.jpg"data-width="450" data-height="700" data-index="3" data-elementor-open-lightbox="no">
+													<a  href="/wp-content/uploads/2021/08/post-3-gallery-3-min.jpg"data-width="450" data-height="700" data-index="3" data-elementor-open-lightbox="no">
 						
-						<img src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/post-3-gallery-3-min.jpg"alt="post-3-gallery-3-min">
+						<img src="/wp-content/uploads/elementor/thumbs/post-3-gallery-3-min-pqiwbj3gefwiwwxs10jo8jg38nqdfozwtvc8ecrgew.jpg"alt="post-3-gallery-3-min">
 													</a>
 											</div>
 															<div class="wd-gallery-item">
-													<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/post-3-gallery-4-min.jpg"data-width="450" data-height="700" data-index="4" data-elementor-open-lightbox="no">
+													<a  href="/wp-content/uploads/2021/08/post-3-gallery-4-min.jpg"data-width="450" data-height="700" data-index="4" data-elementor-open-lightbox="no">
 						
-						<img src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/post-3-gallery-4-min.jpg"alt="post-3-gallery-4-min">
+						<img src="/wp-content/uploads/elementor/thumbs/post-3-gallery-4-min-pqiwg7ckdsaun45dqj9w4uzlkmp2pijv5045avtzh4.jpg"alt="post-3-gallery-4-min">
 													</a>
 											</div>
 								</div>
@@ -270,8 +265,8 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 				<div class="elementor-widget-container">
 			
 		<div class="wd-image text-left photoswipe-images">
-							<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/wd-blog-9.jpg"data-width="128" data-height="128" data-elementor-open-lightbox="no">
-								<img src="https://aku3.kinhmoi.com/wp-content/uploads/2022/05/track-lights.png" title="track-lights" alt="track-lights" />							</a>
+							<a  href="/wp-content/uploads/2021/08/wd-blog-9.jpg"data-width="128" data-height="128" data-elementor-open-lightbox="no">
+								<img src="/wp-content/uploads/elementor/thumbs/track-lights-pqivgwiurewuhugy2df2g77a2f3e3ei3u1u0rw1vmg.png" title="track-lights" alt="track-lights" />							</a>
 					</div>
 
 				</div>
@@ -292,8 +287,8 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 				<div class="elementor-widget-container">
 			
 		<div class="wd-image text-left photoswipe-images">
-							<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/wd-blog-8.jpg"data-width="1024" data-height="720" data-elementor-open-lightbox="no">
-								<img src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/wd-blog-8.jpg" title="wd-blog-8" alt="wd-blog-8" />							</a>
+							<a  href="/wp-content/uploads/2021/08/wd-blog-8.jpg"data-width="1024" data-height="720" data-elementor-open-lightbox="no">
+								<img src="/wp-content/uploads/elementor/thumbs/wd-blog-8-pqiw9q8ocidejcllqtz6wxc5vt0m58xrsq22ldb8t4.jpg" title="wd-blog-8" alt="wd-blog-8" />							</a>
 					</div>
 
 				</div>
@@ -318,8 +313,8 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 				<div class="elementor-widget-container">
 			
 		<div class="wd-image text-left photoswipe-images">
-							<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2021/07/wd-blog-4.jpg"data-width="128" data-height="128" data-elementor-open-lightbox="no">
-								<img src="https://aku3.kinhmoi.com/wp-content/uploads/2022/05/with-textile-shade.png" title="with-textile-shade" alt="with-textile-shade" />							</a>
+							<a  href="/wp-content/uploads/2021/07/wd-blog-4.jpg"data-width="128" data-height="128" data-elementor-open-lightbox="no">
+								<img src="/wp-content/uploads/elementor/thumbs/with-textile-shade-pqivgo2b1wl9lct8frrfbrc4py9364kisvyngeef6g.png" title="with-textile-shade" alt="with-textile-shade" />							</a>
 					</div>
 
 				</div>
@@ -340,8 +335,8 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 				<div class="elementor-widget-container">
 			
 		<div class="wd-image text-left photoswipe-images">
-							<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/wd-blog-5.jpg"data-width="128" data-height="128" data-elementor-open-lightbox="no">
-								<img src="https://aku3.kinhmoi.com/wp-content/uploads/2022/05/ceiling-lights.png" title="ceiling-lights" alt="ceiling-lights" />							</a>
+							<a  href="/wp-content/uploads/2021/08/wd-blog-5.jpg"data-width="128" data-height="128" data-elementor-open-lightbox="no">
+								<img src="/wp-content/uploads/elementor/thumbs/ceiling-lights-pqivgun6dqu9umjodcltb7ocvncno0an5sj1tc4nyw.png" title="ceiling-lights" alt="ceiling-lights" />							</a>
 					</div>
 
 				</div>
@@ -364,13 +359,13 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-da76528 elementor-widget elementor-widget-wd_testimonials" data-id="da76528" data-element_type="widget" data-widget_type="wd_testimonials.default">
 				<div class="elementor-widget-container">
-						<link rel="stylesheet" id="wd-testimonial-old-css" href="https://aku3.kinhmoi.com/wp-content/themes/woodmart/css/parts/el-testimonial-old.min.css?ver=6.5.2" type="text/css" media="all" /> 					<div class="testimonials testimonials-wrapper testimonials-slider testimon-style-standard  color-scheme- testimon-align-left wd-carousel-container wd-carousel-spacing-30" id="carousel-4133" data-owl-carousel data-speed="" data-slides_per_view_tablet='{"size":""}' data-slides_per_view_mobile='{"size":""}' data-wrap="no" data-hide_pagination_control="yes" data-hide_prev_next_buttons="no" data-desktop="1" data-tablet="1" data-tablet_landscape="1" data-mobile="1">
+						<link rel="stylesheet" id="wd-testimonial-old-css" href="/wp-content/themes/woodmart/css/parts/el-testimonial-old.min.css?ver=6.5.3" type="text/css" media="all" /> 					<div class="testimonials testimonials-wrapper testimonials-slider testimon-style-standard  color-scheme- testimon-align-left wd-carousel-container wd-carousel-spacing-30" id="carousel-7783" data-owl-carousel data-speed="" data-slides_per_view_tablet='{"size":""}' data-slides_per_view_mobile='{"size":""}' data-wrap="no" data-hide_pagination_control="yes" data-hide_prev_next_buttons="no" data-desktop="1" data-tablet="1" data-tablet_landscape="1" data-mobile="1">
 			<div class="owl-carousel owl-items-lg-1 owl-items-md-1 owl-items-sm-1 owl-items-xs-1">
 									
 <div class="testimonial column">
 	<div class="testimonial-inner">
 					<div class="testimonial-avatar">
-				<img src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/post-3-testimonials-1-min.jpg" class="testimonial-avatar-image">			</div>
+				<img src="/wp-content/uploads/2021/08/post-3-testimonials-1-min.jpg" class="testimonial-avatar-image">			</div>
 		
 		<div class="testimonial-content">
 			<div class="testimonial-rating">
@@ -391,7 +386,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 <div class="testimonial column">
 	<div class="testimonial-inner">
 					<div class="testimonial-avatar">
-				<img src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/post-3-testimonials-2-min.jpg" class="testimonial-avatar-image">			</div>
+				<img src="/wp-content/uploads/2021/08/post-3-testimonials-2-min.jpg" class="testimonial-avatar-image">			</div>
 		
 		<div class="testimonial-content">
 			<div class="testimonial-rating">
@@ -412,7 +407,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 <div class="testimonial column">
 	<div class="testimonial-inner">
 					<div class="testimonial-avatar">
-				<img src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/post-3-testimonials-3-min.jpg" class="testimonial-avatar-image">			</div>
+				<img src="/wp-content/uploads/2021/08/post-3-testimonials-3-min.jpg" class="testimonial-avatar-image">			</div>
 		
 		<div class="testimonial-content">
 			<div class="testimonial-rating">
@@ -453,8 +448,8 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 				<div class="elementor-widget-container">
 			
 		<div class="wd-image text-left photoswipe-images">
-							<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/wd-blog-9.jpg"data-width="128" data-height="128" data-elementor-open-lightbox="no">
-								<img width="128" height="128" src="https://aku3.kinhmoi.com/wp-content/uploads/2022/05/track-lights.png" class="attachment-full size-full" alt="" loading="lazy" />							</a>
+							<a  href="/wp-content/uploads/2021/08/wd-blog-9.jpg"data-width="128" data-height="128" data-elementor-open-lightbox="no">
+								<img width="128" height="128" src="/wp-content/uploads/2022/05/track-lights.png" class="attachment-full size-full" alt="" loading="lazy" />							</a>
 					</div>
 
 				</div>
@@ -472,8 +467,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 							</div>
 		</section>
 							</div>
-		<p>Bài viết <a rel="nofollow" href="/2021/08/the-big-design-wall-likes-pictures/">The big design: Wall likes pictures</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="/">MySite_aku3</a>.</p>
-]]></content:encoded>
+		]]></content:encoded>
 					
 					<wfw:commentRss>/2021/08/the-big-design-wall-likes-pictures/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
@@ -492,9 +486,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 		<category><![CDATA[Style]]></category>
 		<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?p=1</guid>
 
-					<description><![CDATA[<p>A sed a risusat luctus esta anibh rhoncus hendrerit blandit nam rutrum sitmiad hac. Cras a vestibulum a varius adipiscing</p>
-<p>Bài viết <a rel="nofollow" href="/2021/07/sweet-seat-functional-seat-for-it-folks/">Sweet seat: functional seat for IT folks</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="/">MySite_aku3</a>.</p>
-]]></description>
+					<description><![CDATA[A sed a risusat luctus esta anibh rhoncus hendrerit blandit nam rutrum sitmiad hac. Cras a vestibulum a varius adipiscing]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1612" class="elementor elementor-1612">
 									<section class="wd-negative-gap elementor-section elementor-top-section elementor-element elementor-element-8f6a291 elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="8f6a291" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -562,8 +554,8 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 				<div class="elementor-widget-container">
 			
 		<div class="wd-image text-left photoswipe-images">
-							<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/wd-blog-7.jpg"data-width="128" data-height="128" data-elementor-open-lightbox="no">
-								<img src="https://aku3.kinhmoi.com/wp-content/uploads/2022/05/decorative-lamps.png" title="decorative-lamps" alt="decorative-lamps" />							</a>
+							<a  href="/wp-content/uploads/2021/08/wd-blog-7.jpg"data-width="128" data-height="128" data-elementor-open-lightbox="no">
+								<img src="/wp-content/uploads/elementor/thumbs/decorative-lamps-pqivgqvtmeok3lcun8aui4si49ezjbwj7sf9v9r9m8.png" title="decorative-lamps" alt="decorative-lamps" />							</a>
 					</div>
 
 				</div>
@@ -589,39 +581,39 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 					<div class="wd-images-gallery wd-justify-center wd-items-middle view-grid photoswipe-images" >
 			<div class="gallery-images row wd-spacing-10">
 														<div class="wd-gallery-item  col-lg-4 col-md-4 col-12">
-													<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2022/05/special-lamps.png"data-width="128" data-height="128" data-index="1" data-elementor-open-lightbox="no">
+													<a  href="/wp-content/uploads/2022/05/special-lamps.png"data-width="128" data-height="128" data-index="1" data-elementor-open-lightbox="no">
 						
-						<img src="https://aku3.kinhmoi.com/wp-content/uploads/2022/05/special-lamps.png"alt="special-lamps">
+						<img src="/wp-content/uploads/elementor/thumbs/special-lamps-pqivgsrecidtwssx3iilavsc70itzggu8nyqdm8t6g.png"alt="special-lamps">
 													</a>
 											</div>
 															<div class="wd-gallery-item  col-lg-4 col-md-4 col-12">
-													<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2022/05/light-fixtures.png"data-width="128" data-height="128" data-index="2" data-elementor-open-lightbox="no">
+													<a  href="/wp-content/uploads/2022/05/light-fixtures.png"data-width="128" data-height="128" data-index="2" data-elementor-open-lightbox="no">
 						
-						<img src="https://aku3.kinhmoi.com/wp-content/uploads/2022/05/light-fixtures.png"alt="light-fixtures">
+						<img src="/wp-content/uploads/elementor/thumbs/light-fixtures-pqivgtp8jcf48erjy0x7vdjssee775kkksm7uw7f08.png"alt="light-fixtures">
 													</a>
 											</div>
 															<div class="wd-gallery-item  col-lg-4 col-md-4 col-12">
-													<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2022/05/ceiling-lights.png"data-width="128" data-height="128" data-index="3" data-elementor-open-lightbox="no">
+													<a  href="/wp-content/uploads/2022/05/ceiling-lights.png"data-width="128" data-height="128" data-index="3" data-elementor-open-lightbox="no">
 						
-						<img src="https://aku3.kinhmoi.com/wp-content/uploads/2022/05/ceiling-lights.png"alt="ceiling-lights">
+						<img src="/wp-content/uploads/elementor/thumbs/ceiling-lights-pqivgun2q6gek0q6sjbufvb9ds9keuoawx9pc660u0.png"alt="ceiling-lights">
 													</a>
 											</div>
 															<div class="wd-gallery-item  col-lg-4 col-md-4 col-12">
-													<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/wd-blog-6.jpg"data-width="1024" data-height="720" data-index="4" data-elementor-open-lightbox="no">
+													<a  href="/wp-content/uploads/2021/08/wd-blog-6.jpg"data-width="1024" data-height="720" data-index="4" data-elementor-open-lightbox="no">
 						
-						<img src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/wd-blog-6.jpg"alt="wd-blog-6">
+						<img src="/wp-content/uploads/elementor/thumbs/wd-blog-6-pqiw9ocwb9wyliuugzvywlg5766sgp3yvlhr5nfe0o.jpg"alt="wd-blog-6">
 													</a>
 											</div>
 															<div class="wd-gallery-item  col-lg-4 col-md-4 col-12">
-													<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/wd-blog-8.jpg"data-width="1024" data-height="720" data-index="5" data-elementor-open-lightbox="no">
+													<a  href="/wp-content/uploads/2021/08/wd-blog-8.jpg"data-width="1024" data-height="720" data-index="5" data-elementor-open-lightbox="no">
 						
-						<img src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/wd-blog-8.jpg"alt="wd-blog-8">
+						<img src="/wp-content/uploads/elementor/thumbs/wd-blog-8-pqiw9q8koxzj8qs460p81kz2dxxiw3bfjusq47clo8.jpg"alt="wd-blog-8">
 													</a>
 											</div>
 															<div class="wd-gallery-item  col-lg-4 col-md-4 col-12">
-													<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2022/05/track-lights.png"data-width="128" data-height="128" data-index="6" data-elementor-open-lightbox="no">
+													<a  href="/wp-content/uploads/2022/05/track-lights.png"data-width="128" data-height="128" data-index="6" data-elementor-open-lightbox="no">
 						
-						<img src="https://aku3.kinhmoi.com/wp-content/uploads/2022/05/track-lights.png"alt="track-lights">
+						<img src="/wp-content/uploads/elementor/thumbs/track-lights-pqivgwir3uiz78nghk53kuu6kk0au8vrl6koaq38hk.png"alt="track-lights">
 													</a>
 											</div>
 								</div>
@@ -641,8 +633,7 @@ Via Suspendisse 24 – Metro: Praesent Vehicula<br />
 							</div>
 		</section>
 							</div>
-		<p>Bài viết <a rel="nofollow" href="/2021/07/sweet-seat-functional-seat-for-it-folks/">Sweet seat: functional seat for IT folks</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="/">MySite_aku3</a>.</p>
-]]></content:encoded>
+		]]></content:encoded>
 					
 					<wfw:commentRss>/2021/07/sweet-seat-functional-seat-for-it-folks/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
