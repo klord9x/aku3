@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Lưu trữ Lighting - MySite_aku3</title>
+	<title>Lighting &#8211; MySite_aku3</title>
 	<atom:link href="/project-cat/lighting/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Just another WordPress site</description>
@@ -28,9 +28,7 @@
 		<pubDate>Fri, 27 Aug 2021 13:27:56 +0000</pubDate>
 				<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?post_type=portfolio&#038;p=538</guid>
 
-					<description><![CDATA[<p>Sticky Sidebar Details available with Every Demo Hac vitae sem class fames vehicula nascetur nam tellus a condimentum inceptos mus rhoncus</p>
-<p>Bài viết <a rel="nofollow" href="/portfolio/venenatis-nam-phasellus/">Venenatis nam phasellus</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="/">MySite_aku3</a>.</p>
-]]></description>
+					<description><![CDATA[Sticky Sidebar Details available with Every Demo Hac vitae sem class fames vehicula nascetur nam tellus a condimentum inceptos mus rhoncus]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="538" class="elementor elementor-538">
 									<section class="wd-negative-gap elementor-section elementor-top-section elementor-element elementor-element-e29659a elementor-section-content-top elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="e29659a" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-extended">
@@ -38,30 +36,30 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-76bca35 elementor-widget elementor-widget-wd_images_gallery" data-id="76bca35" data-element_type="widget" data-widget_type="wd_images_gallery.default">
 				<div class="elementor-widget-container">
-						<link rel="stylesheet" id="wd-image-gallery-css" href="https://aku3.kinhmoi.com/wp-content/themes/woodmart/css/parts/el-gallery.min.css?ver=6.5.2" type="text/css" media="all" /> 					<div class="wd-images-gallery wd-justify-center wd-items-middle view-grid photoswipe-images" >
+						<link rel="stylesheet" id="wd-image-gallery-css" href="/wp-content/themes/woodmart/css/parts/el-gallery.min.css?ver=6.5.3" type="text/css" media="all" /> 					<div class="wd-images-gallery wd-justify-center wd-items-middle view-grid photoswipe-images" >
 			<div class="gallery-images row wd-spacing-30">
 														<div class="wd-gallery-item  col-lg-12 col-md-12 col-12">
-													<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/portfolio-9.jpg"data-width="800" data-height="800" data-index="1" data-elementor-open-lightbox="no">
+													<a  href="/wp-content/uploads/2021/08/portfolio-9.jpg"data-width="800" data-height="800" data-index="1" data-elementor-open-lightbox="no">
 						
-						<img src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/portfolio-9.jpg"alt="portfolio-9">
+						<img src="/wp-content/uploads/2021/08/portfolio-9.jpg"alt="portfolio-9">
 													</a>
 											</div>
 															<div class="wd-gallery-item  col-lg-12 col-md-12 col-12">
-													<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/portfolio-5.jpg"data-width="800" data-height="800" data-index="2" data-elementor-open-lightbox="no">
+													<a  href="/wp-content/uploads/2021/08/portfolio-5.jpg"data-width="800" data-height="800" data-index="2" data-elementor-open-lightbox="no">
 						
-						<img src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/portfolio-5.jpg"alt="portfolio-5">
+						<img src="/wp-content/uploads/2021/08/portfolio-5.jpg"alt="portfolio-5">
 													</a>
 											</div>
 															<div class="wd-gallery-item  col-lg-12 col-md-12 col-12">
-													<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/portfolio-6.jpg"data-width="800" data-height="800" data-index="3" data-elementor-open-lightbox="no">
+													<a  href="/wp-content/uploads/2021/08/portfolio-6.jpg"data-width="800" data-height="800" data-index="3" data-elementor-open-lightbox="no">
 						
-						<img src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/portfolio-6.jpg"alt="portfolio-6">
+						<img src="/wp-content/uploads/2021/08/portfolio-6.jpg"alt="portfolio-6">
 													</a>
 											</div>
 															<div class="wd-gallery-item  col-lg-12 col-md-12 col-12">
-													<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/portfolio-7.jpg"data-width="800" data-height="800" data-index="4" data-elementor-open-lightbox="no">
+													<a  href="/wp-content/uploads/2021/08/portfolio-7.jpg"data-width="800" data-height="800" data-index="4" data-elementor-open-lightbox="no">
 						
-						<img src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/portfolio-7.jpg"alt="portfolio-7">
+						<img src="/wp-content/uploads/2021/08/portfolio-7.jpg"alt="portfolio-7">
 													</a>
 											</div>
 								</div>
@@ -136,7 +134,7 @@
 				
 				
 				
-									<a rel="noopener noreferrer nofollow" href="https://pinterest.com/pin/create/button/?url=/portfolio/venenatis-nam-phasellus/&media=https://aku3.kinhmoi.com/wp-content/uploads/2021/08/portfolio-5.jpg&description=Venenatis+nam+phasellus" target="_blank" class=" wd-social-icon social-pinterest" aria-label="Pinterest social link">
+									<a rel="noopener noreferrer nofollow" href="https://pinterest.com/pin/create/button/?url=/portfolio/venenatis-nam-phasellus/&media=/wp-content/uploads/2021/08/portfolio-5.jpg&description=Venenatis+nam+phasellus" target="_blank" class=" wd-social-icon social-pinterest" aria-label="Pinterest social link">
 						<span class="wd-icon"></span>
 											</a>
 				
@@ -175,8 +173,7 @@
 							</div>
 		</section>
 							</div>
-		<p>Bài viết <a rel="nofollow" href="/portfolio/venenatis-nam-phasellus/">Venenatis nam phasellus</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="/">MySite_aku3</a>.</p>
-]]></content:encoded>
+		]]></content:encoded>
 					
 					<wfw:commentRss>/portfolio/venenatis-nam-phasellus/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
