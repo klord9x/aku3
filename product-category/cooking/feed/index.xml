@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Lưu trữ Cooking - MySite_aku3</title>
+	<title>Cooking &#8211; MySite_aku3</title>
 	<atom:link href="/product-category/cooking/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Just another WordPress site</description>
@@ -28,9 +28,7 @@
 		<pubDate>Fri, 27 Aug 2021 11:42:20 +0000</pubDate>
 				<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?post_type=product&#038;p=334</guid>
 
-					<description><![CDATA[<p>Nam gravida vulputate est venenatis eu at ullamcorper consectetur parturient suspendisse a elit lobortis ut convallis vestibulum vulputate nunc praesent mattis sem faucibus risus sociosqu.Dapibus curae a ac vestibulum a magnis ullamcorper orci a iaculis adipiscing augue a massa a torquent feugiat a. Scelerisque vestibulum.</p>
-<p>Bài viết <a rel="nofollow" href="/product/decoration-wooden-present/">Decoration wooden present</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="/">MySite_aku3</a>.</p>
-]]></description>
+					<description><![CDATA[Nam gravida vulputate est venenatis eu at ullamcorper consectetur parturient suspendisse a elit lobortis ut convallis vestibulum vulputate nunc praesent mattis sem faucibus risus sociosqu.Dapibus curae a ac vestibulum a magnis ullamcorper orci a iaculis adipiscing augue a massa a torquent feugiat a. Scelerisque vestibulum.]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="334" class="elementor elementor-334">
 									<section class="wd-negative-gap elementor-section elementor-top-section elementor-element elementor-element-51230d5 elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="51230d5" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -52,7 +50,7 @@
 				<div class="elementor-widget-container">
 			
 		<div class="wd-image text-left">
-								<img width="700" height="800" src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/decoration-wooden-presen-1.jpg" class="attachment-full size-full" alt="" loading="lazy" />					</div>
+								<img width="700" height="800" src="/wp-content/uploads/2021/08/decoration-wooden-presen-1.jpg" class="attachment-full size-full" alt="" loading="lazy" />					</div>
 
 				</div>
 				</div>
@@ -64,7 +62,7 @@
 				<div class="elementor-widget-container">
 			
 		<div class="wd-image text-left">
-								<img width="700" height="800" src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/decoration-wooden-presen-2.jpg" class="attachment-full size-full" alt="" loading="lazy" />					</div>
+								<img width="700" height="800" src="/wp-content/uploads/2021/08/decoration-wooden-presen-2.jpg" class="attachment-full size-full" alt="" loading="lazy" />					</div>
 
 				</div>
 				</div>
@@ -73,8 +71,7 @@
 							</div>
 		</section>
 							</div>
-		<p>Bài viết <a rel="nofollow" href="/product/decoration-wooden-present/">Decoration wooden present</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="/">MySite_aku3</a>.</p>
-]]></content:encoded>
+		]]></content:encoded>
 					
 					<wfw:commentRss>/product/decoration-wooden-present/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
