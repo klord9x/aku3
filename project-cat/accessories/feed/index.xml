@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Lưu trữ Accessories - MySite_aku3</title>
+	<title>Accessories &#8211; MySite_aku3</title>
 	<atom:link href="/project-cat/accessories/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Just another WordPress site</description>
@@ -28,9 +28,7 @@
 		<pubDate>Fri, 27 Aug 2021 13:28:54 +0000</pubDate>
 				<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?post_type=portfolio&#038;p=544</guid>
 
-					<description><![CDATA[<p>ULLAMCORPER CONSEQUAT PULVINAR SCELERISQUE COMMODO SCELERISQUE. Ut a parturient ad vestibulum lectus varius dignistami sarim fusce mi pos uere ante</p>
-<p>Bài viết <a rel="nofollow" href="/portfolio/imperdiet-mauris-a-nontin/">Imperdiet mauris a nontin</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="/">MySite_aku3</a>.</p>
-]]></description>
+					<description><![CDATA[ULLAMCORPER CONSEQUAT PULVINAR SCELERISQUE COMMODO SCELERISQUE. Ut a parturient ad vestibulum lectus varius dignistami sarim fusce mi pos uere ante]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="544" class="elementor elementor-544">
 									<section class="wd-negative-gap elementor-section elementor-top-section elementor-element elementor-element-8c1b5f1 elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="8c1b5f1" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -38,18 +36,18 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-9d4ef2a elementor-widget elementor-widget-wd_images_gallery" data-id="9d4ef2a" data-element_type="widget" data-widget_type="wd_images_gallery.default">
 				<div class="elementor-widget-container">
-						<link rel="stylesheet" id="wd-image-gallery-css" href="https://aku3.kinhmoi.com/wp-content/themes/woodmart/css/parts/el-gallery.min.css?ver=6.5.2" type="text/css" media="all" /> 					<div class="wd-images-gallery wd-justify-center wd-items-middle view-carousel photoswipe-images wd-carousel-spacing-10 wd-carousel-container" data-owl-carousel data-speed="" data-slides_per_view_tablet='{"size":""}' data-slides_per_view_mobile='{"size":""}' data-wrap="no" data-hide_pagination_control="yes" data-hide_prev_next_buttons="yes" data-desktop="2" data-tablet_landscape="2" data-tablet="1" data-mobile="1">
+						<link rel="stylesheet" id="wd-image-gallery-css" href="/wp-content/themes/woodmart/css/parts/el-gallery.min.css?ver=6.5.3" type="text/css" media="all" /> 					<div class="wd-images-gallery wd-justify-center wd-items-middle view-carousel photoswipe-images wd-carousel-spacing-10 wd-carousel-container" data-owl-carousel data-speed="" data-slides_per_view_tablet='{"size":""}' data-slides_per_view_mobile='{"size":""}' data-wrap="no" data-hide_pagination_control="yes" data-hide_prev_next_buttons="yes" data-desktop="2" data-tablet_landscape="2" data-tablet="1" data-mobile="1">
 			<div class="gallery-images owl-carousel owl-items-lg-2 owl-items-md-2 owl-items-sm-1 owl-items-xs-1">
 														<div class="wd-gallery-item">
-													<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/portfolio-7.jpg"data-width="800" data-height="800" data-index="1" data-elementor-open-lightbox="no">
+													<a  href="/wp-content/uploads/2021/08/portfolio-7.jpg"data-width="800" data-height="800" data-index="1" data-elementor-open-lightbox="no">
 						
-						<img src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/portfolio-7.jpg"alt="portfolio-7">
+						<img src="/wp-content/uploads/2021/08/portfolio-7.jpg"alt="portfolio-7">
 													</a>
 											</div>
 															<div class="wd-gallery-item">
-													<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/portfolio-9.jpg"data-width="800" data-height="800" data-index="2" data-elementor-open-lightbox="no">
+													<a  href="/wp-content/uploads/2021/08/portfolio-9.jpg"data-width="800" data-height="800" data-index="2" data-elementor-open-lightbox="no">
 						
-						<img src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/portfolio-9.jpg"alt="portfolio-9">
+						<img src="/wp-content/uploads/2021/08/portfolio-9.jpg"alt="portfolio-9">
 													</a>
 											</div>
 								</div>
@@ -97,7 +95,7 @@
 				
 				
 				
-									<a rel="noopener noreferrer nofollow" href="https://pinterest.com/pin/create/button/?url=/portfolio/imperdiet-mauris-a-nontin/&media=https://aku3.kinhmoi.com/wp-content/uploads/2021/08/portfolio-4.jpg&description=Imperdiet+mauris+a+nontin" target="_blank" class=" wd-social-icon social-pinterest" aria-label="Pinterest social link">
+									<a rel="noopener noreferrer nofollow" href="https://pinterest.com/pin/create/button/?url=/portfolio/imperdiet-mauris-a-nontin/&media=/wp-content/uploads/2021/08/portfolio-4.jpg&description=Imperdiet+mauris+a+nontin" target="_blank" class=" wd-social-icon social-pinterest" aria-label="Pinterest social link">
 						<span class="wd-icon"></span>
 											</a>
 				
@@ -137,11 +135,11 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-fc1752a elementor-widget elementor-widget-wd_infobox" data-id="fc1752a" data-element_type="widget" data-widget_type="wd_infobox.default">
 				<div class="elementor-widget-container">
-						<link rel="stylesheet" id="wd-info-box-css" href="https://aku3.kinhmoi.com/wp-content/themes/woodmart/css/parts/el-info-box.min.css?ver=6.5.2" type="text/css" media="all" /> 					<div class="info-box-wrapper">
+						<link rel="stylesheet" id="wd-info-box-css" href="/wp-content/themes/woodmart/css/parts/el-info-box.min.css?ver=6.5.3" type="text/css" media="all" /> 					<div class="info-box-wrapper">
 			<div class="wd-info-box text-left box-icon-align-left box-style-base color-scheme- cursor-pointer" onclick="window.location.href='#'">
 									<div class="box-icon-wrapper  box-with-icon box-icon-simple">
 						<div class="info-box-icon">
-															<img src="https://aku3.kinhmoi.com/wp-content/uploads/2022/05/wide-plinth.png" title="wide-plinth" alt="wide-plinth" />													</div>
+															<img src="/wp-content/uploads/elementor/thumbs/wide-plinth-pqivg59b3dzfciwiwtu1s5tvw2ltveykna6angywfg.png" title="wide-plinth" alt="wide-plinth" />													</div>
 					</div>
 				
 				<div class="info-box-content">
@@ -169,7 +167,7 @@
 			<div class="wd-info-box text-left box-icon-align-left box-style-base color-scheme- cursor-pointer" onclick="window.location.href='#'">
 									<div class="box-icon-wrapper  box-with-icon box-icon-simple">
 						<div class="info-box-icon">
-															<img src="https://aku3.kinhmoi.com/wp-content/uploads/2022/05/wide-plinth.png" title="wide-plinth" alt="wide-plinth" />													</div>
+															<img src="/wp-content/uploads/elementor/thumbs/wide-plinth-pqivg59b3dzfciwiwtu1s5tvw2ltveykna6angywfg.png" title="wide-plinth" alt="wide-plinth" />													</div>
 					</div>
 				
 				<div class="info-box-content">
@@ -197,7 +195,7 @@
 			<div class="wd-info-box text-left box-icon-align-left box-style-base color-scheme- cursor-pointer" onclick="window.location.href='#'">
 									<div class="box-icon-wrapper  box-with-icon box-icon-simple">
 						<div class="info-box-icon">
-															<img src="https://aku3.kinhmoi.com/wp-content/uploads/2022/05/wide-plinth.png" title="wide-plinth" alt="wide-plinth" />													</div>
+															<img src="/wp-content/uploads/elementor/thumbs/wide-plinth-pqivg59b3dzfciwiwtu1s5tvw2ltveykna6angywfg.png" title="wide-plinth" alt="wide-plinth" />													</div>
 					</div>
 				
 				<div class="info-box-content">
@@ -227,7 +225,7 @@
 				<div class="elementor-widget-container">
 			
 		<div class="wd-image text-left">
-								<img src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/portfolio-3.jpg" title="portfolio-3" alt="portfolio-3" />					</div>
+								<img src="/wp-content/uploads/elementor/thumbs/portfolio-3-pqiw94mcrgsifhzuib4irpm7yany48alcxgegis0u8.jpg" title="portfolio-3" alt="portfolio-3" />					</div>
 
 				</div>
 				</div>
@@ -239,7 +237,7 @@
 				<div class="elementor-widget-container">
 			
 		<div class="wd-image text-left">
-								<img src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/portfolio-1.jpg" title="portfolio-1" alt="portfolio-1" />					</div>
+								<img src="/wp-content/uploads/elementor/thumbs/portfolio-1-pqiw9uxu2tq7kju1gpwzqe230bezvm38596vl4xlx8.jpg" title="portfolio-1" alt="portfolio-1" />					</div>
 
 				</div>
 				</div>
@@ -247,7 +245,7 @@
 				<div class="elementor-widget-container">
 			
 		<div class="wd-image text-left">
-								<img src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/portfolio-2.jpg" title="portfolio-2" alt="portfolio-2" />					</div>
+								<img src="/wp-content/uploads/elementor/thumbs/portfolio-2-pqiw9vvo9nrhw5sob8bmavtjlpad3b6yhdud2ew7r0.jpg" title="portfolio-2" alt="portfolio-2" />					</div>
 
 				</div>
 				</div>
@@ -256,8 +254,7 @@
 							</div>
 		</section>
 							</div>
-		<p>Bài viết <a rel="nofollow" href="/portfolio/imperdiet-mauris-a-nontin/">Imperdiet mauris a nontin</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="/">MySite_aku3</a>.</p>
-]]></content:encoded>
+		]]></content:encoded>
 					
 					<wfw:commentRss>/portfolio/imperdiet-mauris-a-nontin/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -273,9 +270,7 @@
 		<pubDate>Fri, 27 Aug 2021 12:45:07 +0000</pubDate>
 				<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?post_type=portfolio&#038;p=471</guid>
 
-					<description><![CDATA[<p>Sticky Sidebar Details available with Every Demo Hac vitae sem class fames vehicula nascetur nam tellus a condimentum inceptos mus rhoncus</p>
-<p>Bài viết <a rel="nofollow" href="/portfolio/potenti-parturient-parturie/">Potenti parturient parturie</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="/">MySite_aku3</a>.</p>
-]]></description>
+					<description><![CDATA[Sticky Sidebar Details available with Every Demo Hac vitae sem class fames vehicula nascetur nam tellus a condimentum inceptos mus rhoncus]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="471" class="elementor elementor-471">
 									<section class="wd-negative-gap elementor-section elementor-top-section elementor-element elementor-element-30f1ecdc elementor-section-content-top elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="30f1ecdc" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-extended">
@@ -286,27 +281,27 @@
 					<div class="wd-images-gallery wd-justify-center wd-items-middle view-grid photoswipe-images" >
 			<div class="gallery-images row wd-spacing-30">
 														<div class="wd-gallery-item  col-lg-12 col-md-12 col-12">
-													<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/portfolio-9.jpg"data-width="800" data-height="800" data-index="1" data-elementor-open-lightbox="no">
+													<a  href="/wp-content/uploads/2021/08/portfolio-9.jpg"data-width="800" data-height="800" data-index="1" data-elementor-open-lightbox="no">
 						
-						<img src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/portfolio-9.jpg"alt="portfolio-9">
+						<img src="/wp-content/uploads/2021/08/portfolio-9.jpg"alt="portfolio-9">
 													</a>
 											</div>
 															<div class="wd-gallery-item  col-lg-12 col-md-12 col-12">
-													<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/portfolio-5.jpg"data-width="800" data-height="800" data-index="2" data-elementor-open-lightbox="no">
+													<a  href="/wp-content/uploads/2021/08/portfolio-5.jpg"data-width="800" data-height="800" data-index="2" data-elementor-open-lightbox="no">
 						
-						<img src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/portfolio-5.jpg"alt="portfolio-5">
+						<img src="/wp-content/uploads/2021/08/portfolio-5.jpg"alt="portfolio-5">
 													</a>
 											</div>
 															<div class="wd-gallery-item  col-lg-12 col-md-12 col-12">
-													<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/portfolio-6.jpg"data-width="800" data-height="800" data-index="3" data-elementor-open-lightbox="no">
+													<a  href="/wp-content/uploads/2021/08/portfolio-6.jpg"data-width="800" data-height="800" data-index="3" data-elementor-open-lightbox="no">
 						
-						<img src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/portfolio-6.jpg"alt="portfolio-6">
+						<img src="/wp-content/uploads/2021/08/portfolio-6.jpg"alt="portfolio-6">
 													</a>
 											</div>
 															<div class="wd-gallery-item  col-lg-12 col-md-12 col-12">
-													<a  href="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/portfolio-7.jpg"data-width="800" data-height="800" data-index="4" data-elementor-open-lightbox="no">
+													<a  href="/wp-content/uploads/2021/08/portfolio-7.jpg"data-width="800" data-height="800" data-index="4" data-elementor-open-lightbox="no">
 						
-						<img src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/portfolio-7.jpg"alt="portfolio-7">
+						<img src="/wp-content/uploads/2021/08/portfolio-7.jpg"alt="portfolio-7">
 													</a>
 											</div>
 								</div>
@@ -381,7 +376,7 @@
 				
 				
 				
-									<a rel="noopener noreferrer nofollow" href="https://pinterest.com/pin/create/button/?url=/portfolio/potenti-parturient-parturie/&media=https://aku3.kinhmoi.com/wp-content/uploads/2021/08/portfolio-9.jpg&description=Potenti+parturient+parturie" target="_blank" class=" wd-social-icon social-pinterest" aria-label="Pinterest social link">
+									<a rel="noopener noreferrer nofollow" href="https://pinterest.com/pin/create/button/?url=/portfolio/potenti-parturient-parturie/&media=/wp-content/uploads/2021/08/portfolio-9.jpg&description=Potenti+parturient+parturie" target="_blank" class=" wd-social-icon social-pinterest" aria-label="Pinterest social link">
 						<span class="wd-icon"></span>
 											</a>
 				
@@ -420,8 +415,7 @@
 							</div>
 		</section>
 							</div>
-		<p>Bài viết <a rel="nofollow" href="/portfolio/potenti-parturient-parturie/">Potenti parturient parturie</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="/">MySite_aku3</a>.</p>
-]]></content:encoded>
+		]]></content:encoded>
 					
 					<wfw:commentRss>/portfolio/potenti-parturient-parturie/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
