@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Lưu trữ Toys - MySite_aku3</title>
+	<title>Toys &#8211; MySite_aku3</title>
 	<atom:link href="/product-category/toys/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Just another WordPress site</description>
@@ -28,9 +28,7 @@
 		<pubDate>Fri, 27 Aug 2021 11:55:26 +0000</pubDate>
 				<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?post_type=product&#038;p=361</guid>
 
-					<description><![CDATA[<p>Consequat a scelerisque suspendisse vel et eget eu vitae adipiscing nibh scelerisque semper cum adipiscing facilisis adipiscing est accumsan lorem vestibulum.</p>
-<p>Bài viết <a rel="nofollow" href="/product/iphone-dock/">iPhone dock</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="/">MySite_aku3</a>.</p>
-]]></description>
+					<description><![CDATA[Consequat a scelerisque suspendisse vel et eget eu vitae adipiscing nibh scelerisque semper cum adipiscing facilisis adipiscing est accumsan lorem vestibulum.]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="361" class="elementor elementor-361">
 									<section class="wd-negative-gap elementor-section elementor-top-section elementor-element elementor-element-878b672 elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="878b672" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -52,7 +50,7 @@
 				<div class="elementor-widget-container">
 			
 		<div class="wd-image text-left">
-								<img width="700" height="800" src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/iphone-dock-5.jpg" class="attachment-full size-full" alt="" loading="lazy" />					</div>
+								<img width="700" height="800" src="/wp-content/uploads/2021/08/iphone-dock-5.jpg" class="attachment-full size-full" alt="" loading="lazy" />					</div>
 
 				</div>
 				</div>
@@ -64,7 +62,7 @@
 				<div class="elementor-widget-container">
 			
 		<div class="wd-image text-left">
-								<img width="700" height="800" src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/iphone-dock-6.jpg" class="attachment-full size-full" alt="" loading="lazy" />					</div>
+								<img width="700" height="800" src="/wp-content/uploads/2021/08/iphone-dock-6.jpg" class="attachment-full size-full" alt="" loading="lazy" />					</div>
 
 				</div>
 				</div>
@@ -73,8 +71,7 @@
 							</div>
 		</section>
 							</div>
-		<p>Bài viết <a rel="nofollow" href="/product/iphone-dock/">iPhone dock</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="/">MySite_aku3</a>.</p>
-]]></content:encoded>
+		]]></content:encoded>
 					
 					<wfw:commentRss>/product/iphone-dock/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
