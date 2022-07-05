@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Lưu trữ Table - MySite_aku3</title>
+	<title>Table &#8211; MySite_aku3</title>
 	<atom:link href="/tag/table/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Just another WordPress site</description>
@@ -33,9 +33,7 @@
 		<category><![CDATA[Trends]]></category>
 		<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?p=438</guid>
 
-					<description><![CDATA[<p>Aliquet parturient scele risque scele risque nibh pretium parturient suspendisse platea sapien torquent feugiat parturient hac amet. Volutpat nullam montes mollis</p>
-<p>Bài viết <a rel="nofollow" href="/2021/08/reinterprets-the-classic-bookshelf/">Reinterprets the classic bookshelf</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="/">MySite_aku3</a>.</p>
-]]></description>
+					<description><![CDATA[Aliquet parturient scele risque scele risque nibh pretium parturient suspendisse platea sapien torquent feugiat parturient hac amet. Volutpat nullam montes mollis]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="438" class="elementor elementor-438">
 									<section class="wd-negative-gap elementor-section elementor-top-section elementor-element elementor-element-a6ea5c1 elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="a6ea5c1" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -61,7 +59,7 @@
 				<div class="elementor-widget-container">
 			
 		<div class="wd-image text-left">
-								<img src="https://aku3.kinhmoi.com/wp-content/uploads/2022/05/special-lamps.png" title="special-lamps" alt="special-lamps" />					</div>
+								<img src="/wp-content/uploads/elementor/thumbs/special-lamps-pqivgsrj7xiabhf7hzy8k7j9h7uw98djxhyaf2h0ge.png" title="special-lamps" alt="special-lamps" />					</div>
 
 				</div>
 				</div>
@@ -95,7 +93,7 @@
 				</div>
 				<div class="elementor-element elementor-element-bb7bda7 elementor-widget elementor-widget-wd_products" data-id="bb7bda7" data-element_type="widget" data-widget_type="wd_products.default">
 				<div class="elementor-widget-container">
-						<link rel="stylesheet" id="wd-product-loop-base-css" href="https://aku3.kinhmoi.com/wp-content/themes/woodmart/css/parts/woo-product-loop-base.min.css?ver=6.5.2" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-mod-more-description-css" href="https://aku3.kinhmoi.com/wp-content/themes/woodmart/css/parts/mod-more-description.min.css?ver=6.5.2" type="text/css" media="all" /> 									<div id="carousel-192"
+						<link rel="stylesheet" id="wd-product-loop-base-css" href="/wp-content/themes/woodmart/css/parts/woo-product-loop-base.min.css?ver=6.5.3" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-mod-more-description-css" href="/wp-content/themes/woodmart/css/parts/mod-more-description.min.css?ver=6.5.3" type="text/css" media="all" /> 									<div id="carousel-734"
 				 class="wd-carousel-container  slider-type-product products wd-carousel-spacing-20" data-owl-carousel data-speed="" data-slides_per_view_tablet='{"size":""}' data-slides_per_view_mobile='{"size":""}' data-wrap="no" data-hide_pagination_control="yes" data-hide_prev_next_buttons="yes" data-desktop="4" data-tablet_landscape="4" data-tablet="3" data-mobile="2">
 								<div class="owl-carousel owl-items-lg-4 owl-items-md-4 owl-items-sm-3 owl-items-xs-2">
 					
@@ -108,10 +106,10 @@
 	<div class="content-product-imagin"></div>
 	<div class="product-element-top wd-quick-shop">
 		<a href="/product/augue-adipiscing-euismod/" class="product-image-link">
-			<img width="700" height="800" src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/variable-product-example-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />		</a>
+			<img width="700" height="800" src="/wp-content/uploads/2021/08/variable-product-example-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />		</a>
 					<div class="hover-img">
 				<a href="/product/augue-adipiscing-euismod/">
-					<img width="700" height="800" src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/variable-product-example-2.jpg" class="attachment-large size-large" alt="" loading="lazy" />				</a>
+					<img width="700" height="800" src="/wp-content/uploads/2021/08/variable-product-example-2.jpg" class="attachment-large size-large" alt="" loading="lazy" />				</a>
 			</div>
 					<div class="wrapp-swatches">			<div class="wd-compare-btn product-compare-button wd-action-btn wd-style-icon wd-compare-icon">
 				<a href="/compare/" data-id="372" rel="nofollow" data-added-text="Compare products">
@@ -138,7 +136,7 @@
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="372" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="c0b1867480" data-product-id="372" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -172,10 +170,10 @@
 	<div class="content-product-imagin"></div>
 	<div class="product-element-top wd-quick-shop">
 		<a href="/product/classic-wooden-chair/" class="product-image-link">
-			<img width="700" height="800" src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/classic-wooden-chair-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />		</a>
+			<img width="700" height="800" src="/wp-content/uploads/2021/08/classic-wooden-chair-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />		</a>
 					<div class="hover-img">
 				<a href="/product/classic-wooden-chair/">
-					<img width="700" height="800" src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/classic-wooden-chair-2.jpg" class="attachment-large size-large" alt="" loading="lazy" />				</a>
+					<img width="700" height="800" src="/wp-content/uploads/2021/08/classic-wooden-chair-2.jpg" class="attachment-large size-large" alt="" loading="lazy" />				</a>
 			</div>
 					<div class="wrapp-swatches">			<div class="wd-compare-btn product-compare-button wd-action-btn wd-style-icon wd-compare-icon">
 				<a href="/compare/" data-id="270" rel="nofollow" data-added-text="Compare products">
@@ -202,7 +200,7 @@
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="270" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="c0b1867480" data-product-id="270" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -236,10 +234,10 @@
 	<div class="content-product-imagin"></div>
 	<div class="product-element-top wd-quick-shop">
 		<a href="/product/decoration-wooden-present/" class="product-image-link">
-			<img width="700" height="800" src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/decoration-wooden-presen-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />		</a>
+			<img width="700" height="800" src="/wp-content/uploads/2021/08/decoration-wooden-presen-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />		</a>
 					<div class="hover-img">
 				<a href="/product/decoration-wooden-present/">
-					<img width="700" height="800" src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/decoration-wooden-presen-2.jpg" class="attachment-large size-large" alt="" loading="lazy" />				</a>
+					<img width="700" height="800" src="/wp-content/uploads/2021/08/decoration-wooden-presen-2.jpg" class="attachment-large size-large" alt="" loading="lazy" />				</a>
 			</div>
 					<div class="wrapp-swatches">			<div class="wd-compare-btn product-compare-button wd-action-btn wd-style-icon wd-compare-icon">
 				<a href="/compare/" data-id="334" rel="nofollow" data-added-text="Compare products">
@@ -270,7 +268,7 @@
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="334" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="c0b1867480" data-product-id="334" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -304,10 +302,10 @@
 	<div class="content-product-imagin"></div>
 	<div class="product-element-top wd-quick-shop">
 		<a href="/product/eames-lounge-chair/" class="product-image-link">
-			<img width="700" height="800" src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/eames-lounge-chair-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />		</a>
+			<img width="700" height="800" src="/wp-content/uploads/2021/08/eames-lounge-chair-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />		</a>
 					<div class="hover-img">
 				<a href="/product/eames-lounge-chair/">
-					<img width="700" height="800" src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/eames-lounge-chair-2.jpg" class="attachment-large size-large" alt="" loading="lazy" />				</a>
+					<img width="700" height="800" src="/wp-content/uploads/2021/08/eames-lounge-chair-2.jpg" class="attachment-large size-large" alt="" loading="lazy" />				</a>
 			</div>
 					<div class="wrapp-swatches">			<div class="wd-compare-btn product-compare-button wd-action-btn wd-style-icon wd-compare-icon">
 				<a href="/compare/" data-id="232" rel="nofollow" data-added-text="Compare products">
@@ -334,7 +332,7 @@
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="232" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="c0b1867480" data-product-id="232" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -368,10 +366,10 @@
 	<div class="content-product-imagin"></div>
 	<div class="product-element-top wd-quick-shop">
 		<a href="/product/eames-plastic-side-chair/" class="product-image-link">
-						<link rel="stylesheet" id="wd-woo-mod-product-labels-css" href="https://aku3.kinhmoi.com/wp-content/themes/woodmart/css/parts/woo-mod-product-labels.min.css?ver=6.5.2" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-mod-product-labels-round-css" href="https://aku3.kinhmoi.com/wp-content/themes/woodmart/css/parts/woo-mod-product-labels-round.min.css?ver=6.5.2" type="text/css" media="all" /> 			<div class="product-labels labels-rounded"><span class="new product-label">New</span></div><img width="700" height="800" src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/eames-plastic-side-chair-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />		</a>
+						<link rel="stylesheet" id="wd-woo-mod-product-labels-css" href="/wp-content/themes/woodmart/css/parts/woo-mod-product-labels.min.css?ver=6.5.3" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-mod-product-labels-round-css" href="/wp-content/themes/woodmart/css/parts/woo-mod-product-labels-round.min.css?ver=6.5.3" type="text/css" media="all" /> 			<div class="product-labels labels-rounded"><span class="new product-label">New</span></div><img width="700" height="800" src="/wp-content/uploads/2021/08/eames-plastic-side-chair-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />		</a>
 					<div class="hover-img">
 				<a href="/product/eames-plastic-side-chair/">
-					<img width="700" height="800" src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/eames-plastic-side-chair-2.jpg" class="attachment-large size-large" alt="" loading="lazy" />				</a>
+					<img width="700" height="800" src="/wp-content/uploads/2021/08/eames-plastic-side-chair-2.jpg" class="attachment-large size-large" alt="" loading="lazy" />				</a>
 			</div>
 					<div class="wrapp-swatches">			<div class="wd-compare-btn product-compare-button wd-action-btn wd-style-icon wd-compare-icon">
 				<a href="/compare/" data-id="381" rel="nofollow" data-added-text="Compare products">
@@ -398,7 +396,7 @@
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="381" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="c0b1867480" data-product-id="381" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -432,10 +430,10 @@
 	<div class="content-product-imagin"></div>
 	<div class="product-element-top wd-quick-shop">
 		<a href="/product/henectus-tincidunt/" class="product-image-link">
-			<img width="700" height="800" src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/senectus-tincidunt-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />		</a>
+			<img width="700" height="800" src="/wp-content/uploads/2021/08/senectus-tincidunt-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />		</a>
 					<div class="hover-img">
 				<a href="/product/henectus-tincidunt/">
-					<img width="700" height="800" src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/senectus-tincidunt-2.jpg" class="attachment-large size-large" alt="" loading="lazy" />				</a>
+					<img width="700" height="800" src="/wp-content/uploads/2021/08/senectus-tincidunt-2.jpg" class="attachment-large size-large" alt="" loading="lazy" />				</a>
 			</div>
 					<div class="wrapp-swatches">			<div class="wd-compare-btn product-compare-button wd-action-btn wd-style-icon wd-compare-icon">
 				<a href="/compare/" data-id="411" rel="nofollow" data-added-text="Compare products">
@@ -462,7 +460,7 @@
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="411" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="c0b1867480" data-product-id="411" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -496,10 +494,10 @@
 	<div class="content-product-imagin"></div>
 	<div class="product-element-top wd-quick-shop">
 		<a href="/product/iphone-dock/" class="product-image-link">
-			<div class="product-labels labels-rounded"><span class="onsale product-label">-13%</span></div><img width="700" height="800" src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/iphone-dock-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />		</a>
+			<div class="product-labels labels-rounded"><span class="onsale product-label">-13%</span></div><img width="700" height="800" src="/wp-content/uploads/2021/08/iphone-dock-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />		</a>
 					<div class="hover-img">
 				<a href="/product/iphone-dock/">
-					<img width="700" height="800" src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/iphone-dock-2.jpg" class="attachment-large size-large" alt="" loading="lazy" />				</a>
+					<img width="700" height="800" src="/wp-content/uploads/2021/08/iphone-dock-2.jpg" class="attachment-large size-large" alt="" loading="lazy" />				</a>
 			</div>
 					<div class="wrapp-swatches">			<div class="wd-compare-btn product-compare-button wd-action-btn wd-style-icon wd-compare-icon">
 				<a href="/compare/" data-id="361" rel="nofollow" data-added-text="Compare products">
@@ -530,7 +528,7 @@
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="361" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="c0b1867480" data-product-id="361" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -564,10 +562,10 @@
 	<div class="content-product-imagin"></div>
 	<div class="product-element-top wd-quick-shop">
 		<a href="/product/ornare-auctor/" class="product-image-link">
-			<img width="700" height="800" src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/ornare-auctor-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />		</a>
+			<img width="700" height="800" src="/wp-content/uploads/2021/08/ornare-auctor-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />		</a>
 					<div class="hover-img">
 				<a href="/product/ornare-auctor/">
-					<img width="700" height="800" src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/ornare-auctor-2.jpg" class="attachment-large size-large" alt="" loading="lazy" />				</a>
+					<img width="700" height="800" src="/wp-content/uploads/2021/08/ornare-auctor-2.jpg" class="attachment-large size-large" alt="" loading="lazy" />				</a>
 			</div>
 					<div class="wrapp-swatches">			<div class="wd-compare-btn product-compare-button wd-action-btn wd-style-icon wd-compare-icon">
 				<a href="/compare/" data-id="395" rel="nofollow" data-added-text="Compare products">
@@ -594,7 +592,7 @@
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="395" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="c0b1867480" data-product-id="395" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -621,7 +619,7 @@
 		</div>
 						
 				</div> <!-- end product-items -->
-			</div> <!-- end #carousel-192 -->
+			</div> <!-- end #carousel-734 -->
 			
 					</div>
 				</div>
@@ -693,8 +691,7 @@
 							</div>
 		</section>
 							</div>
-		<p>Bài viết <a rel="nofollow" href="/2021/08/reinterprets-the-classic-bookshelf/">Reinterprets the classic bookshelf</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="/">MySite_aku3</a>.</p>
-]]></content:encoded>
+		]]></content:encoded>
 					
 					<wfw:commentRss>/2021/08/reinterprets-the-classic-bookshelf/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -714,9 +711,7 @@
 		<category><![CDATA[Trends]]></category>
 		<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?p=180</guid>
 
-					<description><![CDATA[<p>Ullamcorper condimentum erat pretium velit at ut a nunc id a adeu vestibulum nibh urna nam consequat erat molestie lacinia</p>
-<p>Bài viết <a rel="nofollow" href="/2021/08/new-home-decor-from-john-doerson/">New home decor from John Doerson</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="/">MySite_aku3</a>.</p>
-]]></description>
+					<description><![CDATA[Ullamcorper condimentum erat pretium velit at ut a nunc id a adeu vestibulum nibh urna nam consequat erat molestie lacinia]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="180" class="elementor elementor-180">
 									<section class="wd-negative-gap elementor-section elementor-top-section elementor-element elementor-element-b2b9996 elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="b2b9996" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -754,7 +749,7 @@
 				<div class="elementor-widget-container">
 			
 		<div class="wd-image text-left">
-								<img width="800" height="326" src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/decoration-wooden-2-opt.jpg" class="attachment-full size-full" alt="" loading="lazy" />					</div>
+								<img width="800" height="326" src="/wp-content/uploads/2021/08/decoration-wooden-2-opt.jpg" class="attachment-full size-full" alt="" loading="lazy" />					</div>
 
 				</div>
 				</div>
@@ -778,7 +773,7 @@
 				<div class="elementor-widget-container">
 			
 		<div class="wd-image text-left">
-								<img width="800" height="509" src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/decoration-wooden-3-opt.jpg" class="attachment-full size-full" alt="" loading="lazy" />					</div>
+								<img width="800" height="509" src="/wp-content/uploads/2021/08/decoration-wooden-3-opt.jpg" class="attachment-full size-full" alt="" loading="lazy" />					</div>
 
 				</div>
 				</div>
@@ -818,7 +813,7 @@
 				<div class="elementor-widget-container">
 			
 		<div class="wd-image text-left">
-								<img width="128" height="128" src="https://aku3.kinhmoi.com/wp-content/uploads/2022/05/angle-grinders.png" class="attachment-full size-full" alt="" loading="lazy" />					</div>
+								<img width="128" height="128" src="/wp-content/uploads/2022/05/angle-grinders.png" class="attachment-full size-full" alt="" loading="lazy" />					</div>
 
 				</div>
 				</div>
@@ -832,7 +827,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-d256fb2 elementor-widget elementor-widget-wd_products" data-id="d256fb2" data-element_type="widget" data-widget_type="wd_products.default">
 				<div class="elementor-widget-container">
-									<div id="carousel-625"
+									<div id="carousel-425"
 				 class="wd-carousel-container  slider-type-product products wd-carousel-spacing-20" data-owl-carousel data-speed="" data-slides_per_view_tablet='{"size":""}' data-slides_per_view_mobile='{"size":""}' data-wrap="no" data-hide_pagination_control="no" data-hide_prev_next_buttons="no" data-desktop="1" data-tablet="1" data-tablet_landscape="1" data-mobile="1">
 								<div class="owl-carousel owl-items-lg-1 owl-items-md-1 owl-items-sm-1 owl-items-xs-1">
 					
@@ -845,10 +840,10 @@
 	<div class="content-product-imagin"></div>
 	<div class="product-element-top wd-quick-shop">
 		<a href="/product/augue-adipiscing-euismod/" class="product-image-link">
-			<img width="700" height="800" src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/variable-product-example-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />		</a>
+			<img width="700" height="800" src="/wp-content/uploads/2021/08/variable-product-example-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />		</a>
 					<div class="hover-img">
 				<a href="/product/augue-adipiscing-euismod/">
-					<img width="700" height="800" src="https://aku3.kinhmoi.com/wp-content/uploads/2021/08/variable-product-example-2.jpg" class="attachment-large size-large" alt="" loading="lazy" />				</a>
+					<img width="700" height="800" src="/wp-content/uploads/2021/08/variable-product-example-2.jpg" class="attachment-large size-large" alt="" loading="lazy" />				</a>
 			</div>
 					<div class="wrapp-swatches">			<div class="wd-compare-btn product-compare-button wd-action-btn wd-style-icon wd-compare-icon">
 				<a href="/compare/" data-id="372" rel="nofollow" data-added-text="Compare products">
@@ -875,7 +870,7 @@
 			</div>
 			<div class=" wd-buttons wd-pos-r-t">
 				<div class="wrap-wishlist-button">			<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-				<a class="" href="/wishlist/" data-key="84b17a510a" data-product-id="372" rel="nofollow" data-added-text="Browse Wishlist">
+				<a class="" href="/wishlist/" data-key="c0b1867480" data-product-id="372" rel="nofollow" data-added-text="Browse Wishlist">
 					<span>Add to wishlist</span>
 				</a>
 			</div>
@@ -902,7 +897,7 @@
 		</div>
 						
 				</div> <!-- end product-items -->
-			</div> <!-- end #carousel-625 -->
+			</div> <!-- end #carousel-425 -->
 			
 					</div>
 				</div>
@@ -951,8 +946,7 @@
 							</div>
 		</section>
 							</div>
-		<p>Bài viết <a rel="nofollow" href="/2021/08/new-home-decor-from-john-doerson/">New home decor from John Doerson</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="/">MySite_aku3</a>.</p>
-]]></content:encoded>
+		]]></content:encoded>
 					
 					<wfw:commentRss>/2021/08/new-home-decor-from-john-doerson/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
